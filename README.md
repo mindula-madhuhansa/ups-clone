@@ -29,7 +29,3 @@ UPS clone app created using GraphQL and StepZen with existing database.
         <img src="./screenshots/order.jpeg">
     </div>
 </div>
-
-## 🙏 Special Thanks
-
-**This project was completed with the help of [UPS Clone by Sonny Sangha](https://youtu.be/hvvWv2GLWss).**
